@@ -1,6 +1,6 @@
 # Azure OpenAI Data Generator  
   
-Welcome to the Azure OpenAI Data Generator repository! This project leverages Azure OpenAI to automatically generate datasets for various use cases. With this tool, you can quickly create datasets that include product titles, descriptions, prices, and even images.  
+This project leverages Azure OpenAI to automatically generate datasets for various use cases. With this tool, you can quickly create datasets that include product titles, descriptions, prices, and even images. The output will be stored in JSON format.
   
 ## Features  
   
