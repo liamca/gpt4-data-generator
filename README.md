@@ -50,10 +50,10 @@ This project leverages Azure OpenAI to automatically generate datasets for vario
   
 4. Create a `.env` file (from sample.env) in the root directory and update <redacted> with  your Azure OpenAI credentials.
   
-### Usage  
+### Python Notebooks  
   
-* Create Product Information (Textual Information)
-* Create Product Images
+* Step 1: [Create Product Information (Textual Information)](https://github.com/liamca/gpt4-data-generator/blob/main/01-gpt4o-product-data-generator.ipynb)
+* Step 2: [Create Product Images](https://github.com/liamca/gpt4-data-generator/blob/main/02-dalle-3-image-creation.ipynb)
 
 
 
