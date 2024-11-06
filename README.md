@@ -48,16 +48,12 @@ This project leverages Azure OpenAI to automatically generate datasets for vario
   
 3. Set up your Azure OpenAI environment. Follow the [Azure OpenAI documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/openai/) to create and configure your Azure OpenAI resource.  
   
-4. Create a `.env` file in the root directory and add your Azure OpenAI credentials:  
-  
-    ```plaintext  
-    AZURE_OPENAI_ENDPOINT=your_openai_endpoint  
-    AZURE_OPENAI_API_KEY=your_openai_api_key  
-    ```  
+4. Create a `.env` file (from sample.env) in the root directory and update <redacted> with  your Azure OpenAI credentials.
   
 ### Usage  
   
-To generate a product dataset, ...
+* Create Product Information (Textual Information)
+* Create Product Images
 
 
 
